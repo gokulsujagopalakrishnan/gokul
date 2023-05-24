@@ -45,11 +45,9 @@
 </br> </p>
 ## 🔭 I'm currently working on
 
-<br>- LMS Saas project
-
-<br>- Taxi, Vehicle, School Bus Agreegator project
-
-<br>- Chrome Extension with ChatGPT
+- LMS Saas project
+- Taxi, Vehicle, School Bus Agreegator project
+- Chrome Extension with ChatGPT
 
 <p>## 🌱 I'm currently learning</p>
 
