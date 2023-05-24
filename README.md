@@ -39,9 +39,9 @@
 <p align="center"> ### 🤝 Connect with me: </p>
   
 <p align="center">  
-<a href="https://www.linkedin.com/in/gokul-gopalakrishnan/"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/main/images/linkedin.svg" alt="Gokul G Nair | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/gokul-gopalakrishnan/"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/b395b0a777eff34437d631ea73abecc78a56a17c/Images/linkedin.svg" alt="Gokul G Nair | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/sharewithgokul/"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/c3a0ba68d1803fc60cb03de45f5753052cb635bd/Images/instagram.svg" alt="Gokul G Nair | Instagram" width="21px"/></a>
- <a href="https://medium.com/@sharewithgokul"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/main/images/medium.svg" alt="Gokul G Nair | Medium" width="21px"/></a>
+ <a href="https://medium.com/@sharewithgokul"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/b395b0a777eff34437d631ea73abecc78a56a17c/Images/medium.svg" alt="Gokul G Nair | Medium" width="21px"/></a>
 </br> </p>
 
 
