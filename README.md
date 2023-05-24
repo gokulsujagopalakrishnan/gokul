@@ -73,7 +73,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sharewithgokul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsujagopalakrishnan&theme=tokyonight&layout=compact&hide_border=true" />
 </div> --->
-## 📝 Latest Blog Posts
+<p>## 📝 Latest Blog Posts</P>
 
 - [Steps to setup a WordPress blog on the Amazon EC2 infrastructure.](https://medium.com/@sharewithgokul/steps-to-setup-a-wordpress-blog-on-the-amazon-ec2-infrastructure-78072ea19a65)
 - [Set minimum order quantity per category in woo commerce store without plugins](https://medium.com/@sharewithgokul/set-minimum-order-quantity-by-category-woo-commerce-76d873b9feab)
