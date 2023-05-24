@@ -73,6 +73,15 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sharewithgokul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsujagopalakrishnan&theme=tokyonight&layout=compact&hide_border=true" />
 </div> --->
+## 📝 Latest Blog Posts
+
+- [Steps to setup a WordPress blog on the Amazon EC2 infrastructure.](https://medium.com/@sharewithgokul/steps-to-setup-a-wordpress-blog-on-the-amazon-ec2-infrastructure-78072ea19a65)
+- 
+- [How to Create a Beautiful README for Your GitHub Profile]<!--(https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)-->
+- [Deploy Rails API Backend to Heroku and React Frontend to Netlify]<!--(https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)-->
+- [Animation Login Popup Form by Using React State Hook and CSS]<!--(https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)-->
+- [Checklist ✅ for Rails Application]<!--(https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)-->
+- [Self and Operator in Ruby]<!--(https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)-->
 
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 
