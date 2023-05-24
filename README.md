@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/sharewithgokul?tab=repositories)
 
-- 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter, Blender**
+- 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter, Blender, Wordpress**
 
 - 📫 How to reach me  [🌐](https://sharewithgokul.github.io)
 
@@ -44,18 +44,17 @@
  <a href="https://medium.com/@sharewithgokul"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/b395b0a777eff34437d631ea73abecc78a56a17c/Images/medium.svg" alt="Gokul G Nair | Medium" width="21px"/></a>
 </br> </p>
 ## 🔭 I'm currently working on
-
-- poke-finder project
-- anime project
+- LMS Saas project
+- Taxi, Vehicle, School Bus Agreegator project
+- Chrome Extension with ChatGPT
 
 ## 🌱 I'm currently learning
+- Web 3
 
-- 
-
-## 💼 Technical Skills
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
+## 💼 Technical Skills
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/Three.Js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white" height="25" />
