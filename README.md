@@ -32,16 +32,16 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-36-555159.png" alt="sharewithgokul" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="sharewithgokul" height="35" width="35" /></a>
 </p>
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shareithgokul&show_icons=true" alt="adithyaanilkumar" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharewithgokul&show_icons=true" alt="sharewithgokul" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaanilkumar&show_icons=true&layout=compact"" alt="adithyaanilkumar" /> </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharewithgokul&show_icons=true&layout=compact"" alt="sharewithgokul" /> </p> -->
 
 <p align="center"> ### 🤝 Connect with me:
   
   
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+ <a href="https://yushi95.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>  </p>
 
 
