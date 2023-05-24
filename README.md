@@ -76,7 +76,7 @@
 ## 📝 Latest Blog Posts
 
 - [Steps to setup a WordPress blog on the Amazon EC2 infrastructure.](https://medium.com/@sharewithgokul/steps-to-setup-a-wordpress-blog-on-the-amazon-ec2-infrastructure-78072ea19a65)
-- 
+- [Set minimum order quantity per category in woo commerce store without plugins](https://medium.com/@sharewithgokul/set-minimum-order-quantity-by-category-woo-commerce-76d873b9feab)
 - [How to Create a Beautiful README for Your GitHub Profile]<!--(https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)-->
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify]<!--(https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)-->
 - [Animation Login Popup Form by Using React State Hook and CSS]<!--(https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)-->
