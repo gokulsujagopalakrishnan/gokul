@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [Down Below 👇](https://github.com/sharewithgokul?tab=repositories)
 
-- 💬 Ask me about **MERN stack, Django, DevOps, IoT,Arduino, Flutter, Blender, Wordpress**
+- 💬 Ask me about **MERN stack, Django, DevOps, IoT, Arduino, Flutter, Blender, Wordpress, Shopify, Wix**
 
 - 📫 How to reach me  [🌐](https://sharewithgokul.github.io)
 
