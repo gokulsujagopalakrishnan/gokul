@@ -44,13 +44,13 @@
  <a href="https://medium.com/@sharewithgokul"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/b395b0a777eff34437d631ea73abecc78a56a17c/Images/medium.svg" alt="Gokul G Nair | Medium" width="21px"/></a>
 </br> </p>
 ## 🔭 I'm currently working on
-<br>
+
 - LMS Saas project
 - Taxi, Vehicle, School Bus Agreegator project
 - Chrome Extension with ChatGPT
 
 <p>## 🌱 I'm currently learning</p>
-<br>
+
 - Web 3
 - ML/AI
 
