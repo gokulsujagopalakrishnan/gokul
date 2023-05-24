@@ -54,8 +54,8 @@
 - Web 3
 - ML/AI
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
+<!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">-->
+<img src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/main/Images/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <p>## 💼 Technical Skills</P>
 <p align="center">
    <img src="https://img.shields.io/badge/Three.Js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white" height="25" />
