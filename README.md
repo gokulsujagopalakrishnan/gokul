@@ -1,5 +1,5 @@
 <!--<h3 align="center">Gokul G. Nair ⚡ Aspiring Full-Stack & Creative Web Developer</h3>-->
-<h1 align="center"> Hi There <img src="https://github.com/adithyaanilkumar/adithyaanilkumar/blob/master/Hi.gif" width="29px">, I'm Gokul G Nair</h1>
+<h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/main/Hi.gif" width="29px">, I'm Gokul G Nair</h1>
 <h3 align="center">A passionate Fullstack developer who loves to build products!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharewithgokul" alt="sharewithgokul" /> </p>
 
