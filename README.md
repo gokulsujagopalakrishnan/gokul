@@ -38,11 +38,11 @@
 
 <p align="center"> ### 🤝 Connect with me: </p>
   
-  
-<a href="https://www.linkedin.com/in/yushi95/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<p align="center">  
+<a href="https://www.linkedin.com/in/gokul-gopalakrishnan/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gokul G Nair | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
  <a href="https://yushi95.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br> 
+</br> </p>
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
