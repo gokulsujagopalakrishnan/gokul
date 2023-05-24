@@ -46,12 +46,15 @@
 ## 🔭 I'm currently working on
 
 <br>- LMS Saas project
+
 <br>- Taxi, Vehicle, School Bus Agreegator project
+
 <br>- Chrome Extension with ChatGPT
 
 <p>## 🌱 I'm currently learning</p>
-- Web 3
 
+- Web 3
+- ML/AI
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
