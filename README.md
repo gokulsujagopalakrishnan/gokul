@@ -36,12 +36,14 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaanilkumar&show_icons=true&layout=compact"" alt="adithyaanilkumar" /> </p> -->
 
-<p align="center">
-<a href="https://linkedin.com/in/adithyaanilkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
-<a href="https://twitter.com/Adithya5026?s=09" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
-  <a href="https://instagram.com/techbitz_?igshid=1vo38tb9s0lkg" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
-  <a href="mailto:adithyaanilkumar1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="adithyaanilkumar" height="20" width="20" /></a>
-</p>
+<p align="center"> ### 🤝 Connect with me:
+  
+  
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>  
+
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
