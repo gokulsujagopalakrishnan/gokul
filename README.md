@@ -18,11 +18,11 @@
 <i class="devicon-react-original colored"></i>
 <p align="center">
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="python" height="35" width="35" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/django-10-458266.png" alt="adithyaanilkumar" height="35" width="35" /></a>
-<a href="#"> <img src="https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png" alt="adithyaanilkumar" height="35" width="35" /></a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="adithyaanilkumar" height="35" width="35" /> </a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="adithyaanilkumar" height="35" width="35"  /> </a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="adithyaanilkumar" height="35" width="35" /> </a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/django-10-458266.png" alt="shareithgokul" height="35" width="35" /></a>
+<a href="#"> <img src="https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png" alt="shareithgokul" height="35" width="35" /></a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="shareithgokul" height="35" width="35" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="shareithgokul" height="35" width="35"  /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="shareithgokul" height="35" width="35" /> </a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" alt="adithyaanilkumar" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="adithyaanilkumar" height="35" width="35" /></a>
