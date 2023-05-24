@@ -44,9 +44,9 @@
  <a href="https://medium.com/@sharewithgokul"><img align="center" src="https://raw.githubusercontent.com/sharewithgokul/sharewithgokul/b395b0a777eff34437d631ea73abecc78a56a17c/Images/medium.svg" alt="Gokul G Nair | Medium" width="21px"/></a>
 </br> </p>
 ## 🔭 I'm currently working on
-- LMS Saas project
-- Taxi, Vehicle, School Bus Agreegator project
-- Chrome Extension with ChatGPT
+<br>- LMS Saas project
+<br>- Taxi, Vehicle, School Bus Agreegator project
+<br>- Chrome Extension with ChatGPT
 
 <p>## 🌱 I'm currently learning</p>
 - Web 3
@@ -55,7 +55,6 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <p>## 💼 Technical Skills</P>
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/Three.Js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white" height="25" />
    <img src="https://img.shields.io/badge/next.js-%2320232a?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25" />
@@ -73,5 +72,5 @@
 <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsujagopalakrishnan&theme=tokyonight&layout=compact&hide_border=true" />
 </div> --->
 
-
+ <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 
