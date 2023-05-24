@@ -48,13 +48,13 @@
 - Taxi, Vehicle, School Bus Agreegator project
 - Chrome Extension with ChatGPT
 
-## 🌱 I'm currently learning
+<p>## 🌱 I'm currently learning</p>
 - Web 3
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-## 💼 Technical Skills
+<p>## 💼 Technical Skills</P>
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/Three.Js-%2320232a?style=for-the-badge&logo=three.js&logoColor=white" height="25" />
